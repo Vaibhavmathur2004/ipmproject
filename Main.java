@@ -10,7 +10,7 @@ class Friend {
     }
 }
 
-public class findingage {
+public class Main {
 
     public static void main(String[] args) {
 
@@ -30,7 +30,3 @@ public class findingage {
     }
 }
 
-
-difference from  1 code is  1> Maximum age find
-                            2> 	Uses max()
-                            3>  Returns highest age friend
